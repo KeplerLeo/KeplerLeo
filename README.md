@@ -4,7 +4,7 @@
 
 My name is Leonardo Kepler Mesquita, and I am from Brazil 🇧🇷. 
 
-Here you will find some projects that i did for the university and Trybe.
+Here you will find some projects that i did to study.
 
 [![Linkedin: KeplerLeo](https://img.shields.io/badge/-KeplerLeo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KeplerLeo/)](https://www.linkedin.com/in/KeplerLeo/)
 
