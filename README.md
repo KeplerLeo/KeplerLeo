@@ -4,9 +4,7 @@
 
 My name is Leonardo Kepler Mesquita, and I am from Brazil 🇧🇷. 
 
-I've been working as Support since 2019, and i'm looking for opportunities in the development area. 
-
-Here you will find some projects that I did for the university and other courses.
+Here you will find some projects that i did for the university and Trybe.
 
 [![Linkedin: KeplerLeo](https://img.shields.io/badge/-KeplerLeo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KeplerLeo/)](https://www.linkedin.com/in/KeplerLeo/)
 
@@ -18,14 +16,10 @@ Here you will find some projects that I did for the university and other courses
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeplerLeo&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/KeplerLeo/github-readme-stats)
 
 ## Tech Skills
-
-![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"> 
+</div>
