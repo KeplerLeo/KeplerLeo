@@ -11,7 +11,7 @@ function contatcMe() {
 }
 ```
 
-<p>I am passionate about technology and committed to providing efficient solutions. With solid experience in React, Node, MySQL, MongoDB and a wide range of technologies, I am constantly looking to learn and master new skills. A recent graduate of Trybe, I bring a solid foundation of knowledge and a continuous learning mindset.</p>
+<p>I am passionate about technology and committed to providing efficient solutions. With solid experience in React, Node, MySQL, MongoDB and a wide range of technologies, I am constantly looking to learn and master new skills. I bring a solid foundation of knowledge and a continuous learning mindset.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keplerleo/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
