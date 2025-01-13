@@ -3,7 +3,6 @@
 ```JavaScript
 const aboutMe = {
   name: 'Leonardo Kepler Mesquita',
-  age: '29 years old';
 };
 
 function contatcMe() {
